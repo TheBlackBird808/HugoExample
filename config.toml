@@ -1,4 +1,4 @@
 baseURL = 'https://theblackbird808.github.io/HugoExample/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My New Hugo Test Site'
 theme = "PaperMod"
